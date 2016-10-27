@@ -1,0 +1,80 @@
+validation:
+  accepted: ":attribute turi būti priimta."
+  active_url: ":attribute yra neteisingas URL."
+  after: ":attribute turi būti data po :date."
+  alpha: ":attribute gali turėti tik raides."
+  alpha_dash: ":attribute gali turėti tik raides, skaičius, ir _."
+  alpha_num: ":attribute gali turėti tik raides ir skaičius."
+  array: ":attribute turi būti sąrašas."
+  before: ":attribute turi būti data prieš :date."
+  between:
+    numeric: ":attribute turi būti tarp :min ir :max."
+    file: ":attribute turi būti tarp :min ir :max kilobytes."
+    string: ":attribute turi būti tarp :min ir :max simbolių."
+    array: ":attribute turi turėti tarp :min ir :max elementų."
+  boolean: ":attribute turi būti taip arba ne."
+  confirmed: ":attribute nesutampa."
+  date: ":attribute yra neteisinga data."
+  date_format: ":attribute neatitinka formato :other."
+  different: ":attribute ir :other turi būti different."
+  digits: ":attribute turi būti :digits skaičių."
+  digits_between: ":attribute turi būti tarp :min ir :max skaičių."
+  dimensions: ":attribute yra neteisingo dydžio."
+  distinct: ":attribute reikšmė kartojasi."
+  email: ":attribute turi būti teisingas el. pašto adresas."
+  exists: "pasirinktas :attribute yra neteisingas."
+  file: ":attribute turi būti failas."
+  filled: ":attribute yra privalomas."
+  image: ":attribute turi būti paveiksliukas."
+  in: "pasirinktas :attribute yra neteisingas."
+  in_array: ":attribute neegzistuoja tarp :other."
+  integer: ":attribute turi būti sveikas skaičius."
+  ip: ":attribute turi būti teisingas IP address."
+  json: ":attribute turi būti teisingo JSON formato."
+  max:
+    numeric: ":attribute negali būti didesnis negu :max."
+    file: ":attribute negali būti didesnis negu :max kb."
+    string: ":attribute negali būti didesnis negu :max simbolių."
+    array: ":attribute negali turėti daugiau negu :max elementų."
+  mimes: ":attribute turi būti tokio failo tipo: :values."
+  min:
+    numeric: ":attribute turi būti mažiausiai :min."
+    file: ":attribute turi būti mažiausiai :min kb."
+    string: ":attribute turi būti mažiausiai :min simbolių."
+    array: ":attribute turi turėti mažiausiai :min elementų."
+  not_in: "pasirinktas :attribute yra neteisingas."
+  numeric: ":attribute turi būti skaičius."
+  present: ":attribute turi būti pateiktas."
+  regex: ":attribute formatas yra neteisingas."
+  required: ":attribute yra privalomas."
+  required_if: ":attribute yra privalomas jeigu :other yra :value."
+  required_unless: ":attribute yra reikalingas nebent :other yra tarp :values."
+  required_with: ":attribute yra privalomas jeigu :values yra nustatytos."
+  required_with_all: ":attribute yra privalomas jeigu :values yra nustatytos."
+  required_without: ":attribute yra privalomas jeigu :values nėra nustatytos."
+  required_without_all: ":attribute yra privalomas jeigu nei vienas iš :values yra nustatytos."
+  same: ":attribute ir :other privalo sutapti."
+  size:
+    numeric: ":attribute turi būti :size."
+    file: ":attribute turi būti :size kilobytes."
+    string: ":attribute turi būti :size simbolių."
+    array: ":attribute privalo turėti :size elementų(us)."
+  string: ":attribute turi būti tekstas."
+  timezone: ":attribute turi būti teisinga laiko zona."
+  unique: ":attribute jau yra naudojamas."
+  url: ":attribute formatas yra neteisingas."
+
+  attributes:
+    username: prisijungimo vardas
+    password: slaptažodis
+    email: el. paštas
+    title: pavadinimas
+    content: turinys
+    name_singular: vardas vienaskaita
+    name_plural: vardas daugiskaita
+    tag_count_primary: pagrindinių žymų skaičius
+    tag_count_secondary: papildomų žymų skaičius
+
+  custom:
+    username:
+      regex: "Slapyvardį gali sudaryti tik raidės, skaičiai ir _."
