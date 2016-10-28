@@ -1,0 +1,30 @@
+{
+    "name": "pavelas/flarum-ext-lithuanian",
+    "version": "1.0.2",
+    "type": "flarum-extension",
+    "description": "Lithuanian language pack for specific flarum forum.",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Pavelas/flarum-ext-lithuanian.git"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Lithuanian",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "lt",
+            "title": "Lithuanian"
+        }
+    }
+}
