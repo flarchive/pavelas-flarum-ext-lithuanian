@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of pavelas/flarum-ext-lithuanian.** Not for installation: use [Packagist](https://packagist.org/packages/pavelas/flarum-ext-lithuanian) or the [upstream repository](https://github.com/Pavelas/flarum-ext-lithuanian).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**6** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2016-10-27 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v1.0.0) |
+| `1.0.1` | 2016-10-27 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v1.0.1) |
+| `1.0.2` | 2016-10-28 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v1.0.2) |
+| `v0.1.0-beta.3` | 2015-10-28 | — | [Browse](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-04 | — | [Browse](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/pavelas-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.5) |
 
 Catalog entry: [packages/pavelas-flarum-ext-lithuanian.json](https://github.com/flarchive/archive-index/blob/main/packages/pavelas-flarum-ext-lithuanian.json)
 
